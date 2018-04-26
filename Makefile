@@ -8,8 +8,6 @@ FILES = LICENSE.txt \
 DC_FILES = LICENSE.txt \
 	Makefile \
 	mainpage.txt \
-	tinymt32dc.0.20.txt \
-	tinymt64dc.0.20.txt \
 	doxygen.cfg \
 	output.hpp \
 	tinymt32dc.cpp \
